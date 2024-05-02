@@ -18,6 +18,9 @@ public class Operadores {
         System.out.println(++numero);//9
         System.out.println(numero);//9
 
+        boolean falso = false;
+        System.out.println(falso);
+        System.out.println(!falso);
 
     }
 }
